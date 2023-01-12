@@ -1,0 +1,2 @@
+# Brighton-FTC
+About Us
