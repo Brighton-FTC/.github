@@ -4,4 +4,6 @@
 Here you can find all of our **resources, code and tasks** for programming the <abbr title="First Tech Challenge">FTC</abbr> Robots. Most of what you'll be looking for is in the links below:
 ## Season: *2025-2026*
 ### 💻 [`Code` in the 2026 repository](https://github.com/Brighton-FTC/2026)
-### 📖 [`Wiki` to learn concepts, create code, and to find many other resources](https://github.com/Brighton-FTC/2026/wiki)
+### 📖 [`Wiki` to learn concepts, create code, and to find many other resources](https://github.com/Brighton-FTC/2024/wiki) 
+
+(keep the Wiki link pointing to 2024!)
